@@ -1,0 +1,12 @@
+﻿# Virtual Environment
+speechtotext/
+venv/
+env/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+
+# Audio recordings cache
+*.wav
+!my_dataset/audio/*.wav
